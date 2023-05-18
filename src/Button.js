@@ -17,7 +17,10 @@ const Loading = styled.span`
   right: 0;
   opacity: 0;
 `;
-
+const StyledButton = styled.button`
+  border: 10px solid red;
+  font-size: 20px;
+`;
 const APPEARANCES = {
   PRIMARY: 'primary',
   PRIMARY_OUTLINE: 'primaryOutline',
