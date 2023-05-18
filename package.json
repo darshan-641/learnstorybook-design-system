@@ -1,6 +1,6 @@
 {
   "name": "@terror.wizard/storybook",
-  "version": "1",
+  "version": "0.1.0",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -72,7 +72,6 @@
     "webpack": "5.83.1"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "learnstorybook-design-system-template@0.1.0",
   "description": "Learning storybook",
   "main": "index.js",
   "repository": "https://github.com/darshan-641/learnstorybook-design-system.git",
